@@ -8,6 +8,9 @@ This repository is associated with a published abstract submitted to [COGSCI2022
 
 Nalepka, P., Schell, G., Patil, G., & Richardson, M. J. (2022). A computer mouse-based throwing task to study perceptual-motor skill learning in humans and machines [Abstract]. *Proceedings of the Annual Meeting of the Cognitive Science Society*, *44*.
 
+Perceptual-motor tasks offer redundant solutions to achieve a goal. However, not all solutions are equally robust to error-producing noise or variability and thus, skill learning can be viewed as a search process to identify behaviors that are error-tolerant. Throwing a ball to hit a target is one such example of a complex perceptual-motor skill that has been studied in the laboratory via the virtual “skittles” task, a simplified 2D task involving throwing a tetherball around a pole to hit a target. We implemented the task as a Unity3D environment (code here: https://github.com/ShortFox/SkittlesTaskEnvironment/) which enables participants to complete the task with a computer mouse and replicated key findings from previous research. Our implementation allows for remote data collection and can serve as a pedagogical tool to teach concepts in skill acquisition. Future work will use this task to explore human versus machine skill acquisition by leveraging Unity’s MLAgents reinforcement learning package.
+
+
 ## Environment
 
 The task environment can be found [here](https://github.com/ShortFox/SkittlesTaskEnvironment/tree/main/Unity). This project was tested using [Unity 2019.4.4f](https://unity3d.com/get-unity/download/archive).
