@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SkittlesRL.unity
+    path: Assets/Scenes/Environment.unity
     guid: 6c541443720292141a60045e87bdbce7
   m_configObjects: {}
