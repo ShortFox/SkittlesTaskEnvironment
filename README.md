@@ -12,6 +12,16 @@ Nalepka, P., Schell, G., Patil, G., & Richardson, M. J. (2022). A computer mouse
 
 The task environment can be found [here](https://github.com/ShortFox/SkittlesTaskEnvironment/tree/main/Unity). This project was tested using [Unity 2019.4.4f](https://unity3d.com/get-unity/download/archive).
 
+## Demo
+
+The task can be played online using Unity's WebGL [here](https://shortfox.github.io/SkittlesTaskEnvironmentDemo/).
+
+The solution manifold for the task environment is pictured below:
+
+<img src="./resources/demo_solutionmanifold.jpg" width="480">
+
+Note: 0° release angle equates to the 12 o'clock position (90° equates to the 3 o'clock position, etc.). Positive angular velocity represents clockwise movement.
+
 ## References
 
 1. Müller, H., & Sternad, D. (2004). Decomposition of Variability in the Execution of Goal-Oriented Tasks: Three Components of Skill Improvement. Journal of Experimental Psychology: Human Perception and Performance, 30(1), 212–233. https://doi.org/10.1037/0096-1523.30.1.212
